@@ -1,4 +1,4 @@
-ARG golangci_lint_version=v1.23
+ARG golangci_lint_version=v1.30
 FROM golangci/golangci-lint:${golangci_lint_version}
 
 LABEL repository="https://github.com/actions-contrib/golangci-lint"

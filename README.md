@@ -6,7 +6,7 @@ Wraps [golangci-lint](https://github.com/golangci/golangci-lint) as a GitHub act
 
 ### `golangci_lint_version`
 
-Release version tag of `golangci-lint` to install. Defaults to `v1.13`.
+Release version tag of `golangci-lint` to install. Defaults to `v1.30`.
 
 > The default value should be in sync with [Docker Hub][tags] latest.
 
